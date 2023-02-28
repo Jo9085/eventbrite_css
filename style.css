@@ -1,0 +1,33 @@
+li.index {
+    font-size: x-large;
+}
+
+legend {
+    text-align: center;
+    color: #78c2ad;
+    font-weight: 600;
+}
+
+footer {
+
+    border-color: #78c2ad;
+    border-style: double;
+    box-sizing:border-box;
+    display:block;
+    margin: 5em 0;
+    margin-top: 10em;
+    margin-right: 0px;
+    margin-bottom: 5em;
+    margin-left: 0px;
+
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+    background-color: rgba(120,194,173,0.1)
+
+}
+
+footer ul {
+
+}
